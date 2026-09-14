@@ -1,0 +1,6 @@
+Library Rules
+
+Students may borrow up to 3 books at a time for a period of 14 days.
+Late returns incur a fine of 2 rupees per day per book. Reference
+books, journals, and past question papers cannot be taken out of the
+library. Silence must be maintained in the reading hall at all times.
